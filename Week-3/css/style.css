@@ -1,1 +1,39 @@
+*{
+box-sizing: border-box;
+}
+body
+{
+	background-color: #EDBD3B;
+	font-size: 20px;
+	line-height: 40px;
+}
+
+#header-nav
+{
+	background-color: #FFFFFF;
+	border: 0;
+	border-radius: 0;
+}
+
+.navbar-brand
+{
+	height: 100px;
+	text-align: left;
+}
+
+#text-container
+{
+
+	margin : 40px 40px 40px 40px;
+	background-color: #FFFFFF;
+	padding: 10px 10px 10px 10px;
+}
+
+p
+{
+	position: relative;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover
+{ background-color: #ffe6b3;}
+
 
